@@ -1,10 +1,4 @@
 # 🦕 Team Dino — Student Team Members Management App
-
-**Course:** 21CSS301T – Full Stack Development  
-**Assessment:** CLAT-2 (Online Assessment)  
-**Year/Sem:** III Year / VI Sem  
-**Institute:** SRM Institute of Science and Technology, Kattankulathur
-
 ---
 
 ## 📋 Project Description
