@@ -1,4 +1,7 @@
 # 🦕 Team Dino — Student Team Members Management App
+Team members-
+- Abhay Singh
+- Govind H Warrier
 ---
 
 ## 📋 Project Description
